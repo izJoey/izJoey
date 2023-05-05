@@ -3,7 +3,7 @@
 * 🎶 I Love Music ! 🎧
 
 * 🌱 I’m currently learning
-  *Back-end Developlment in Django
+  * Back-end Developlment in Django
   * Deep Learning and Machine Learning
 
 * 💬 Languages
