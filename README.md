@@ -1,8 +1,13 @@
 ### A bit about me
 
+* 🎶 I Love Music ! 🎧
 * 🌱 I’m currently learning
   * Back-end Developlment in Django
   * Deep Learning and Machine Learning
+
+&nbsp;<div align="center">
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qm5xuwepkl1n5grnez9v4ky6p&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=3300FF&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 <h3 align="center"> </h3>
 
