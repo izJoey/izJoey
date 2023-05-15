@@ -5,6 +5,7 @@
 * 🌱 I’m currently learning
   * Back-end Developlment in Django
   * Deep Learning and Machine Learning
+  * Python/Mojo
 
 * 💬 Languages
   * Brazilian Portuguese - Native - 🇧🇷
