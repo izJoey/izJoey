@@ -25,7 +25,16 @@
 <h3 align="left">📖 Main/Learning</h3>
 <p>
     <a href="https://github.com/izJoey">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </a>
+    <a href="https://github.com/izJoey">
+             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </a>
+    <a href="https://github.com/izJoey">
+         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </a>
+    <a href="https://github.com/izJoey">
+         <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
     </a>
     <a href="https://github.com/izJoey">
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,20 +59,11 @@
 
 <h3 align="left">📚 Knowledge on</h3>
 <p>
-      <a href="https://github.com/izJoey">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </a>
+    <a href="https://github.com/izJoey">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    </a>   
     <a href="https://github.com/izJoey">
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </a>
-    <a href="https://github.com/izJoey">
-             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </a>
-    <a href="https://github.com/izJoey">
-         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    </a>
-    <a href="https://github.com/izJoey">
-         <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
     </a>
     <a href="https://github.com/izJoey">
             <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
