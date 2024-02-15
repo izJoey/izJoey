@@ -40,9 +40,6 @@
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     </a>
     <a href="https://github.com/izJoey">
-        <img src="https://img.shields.io/badge/🔥 Mojo-EA2300?style=for-the-badge&logo=mojo&logoColor=white" />
-    </a>
-    <a href="https://github.com/izJoey">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
     <a href="https://github.com/izJoey">
@@ -95,6 +92,9 @@
     </a>
     <a href="https://github.com/izJoey">
         <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+    </a>
+    <a href="https://github.com/izJoey">
+        <img src="https://img.shields.io/badge/🔥 Mojo-EA2300?style=for-the-badge&logo=mojo&logoColor=white" />
     </a>
     <a href="https://github.com/izJoey">
         <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" />
