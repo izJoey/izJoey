@@ -4,13 +4,10 @@
 
 * 🌱 I’m currently learning
   * Front/Back-end Developlment in React/Next
-  * Deep Learning and Machine Learning
-  * Python/Mojo
 
 * 💬 Languages
   * Brazilian Portuguese - Native - 🇧🇷
   * English - Advanced - ✨
-  * Japanese - Learning - こんにちは！
 
 <!--
 &nbsp;<div align="center">
