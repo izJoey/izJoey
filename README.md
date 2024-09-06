@@ -4,6 +4,7 @@
 
 * 🌱 I’m currently learning
   * Front/Back-end Developlment in React/Next
+  * Rust 
 
 * 💬 Languages
   * Brazilian Portuguese - Native - 🇧🇷
@@ -49,9 +50,9 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </a>
     <a href="https://github.com/izJoey">
-        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" />
     </a>
-
+    
 </p>
 
 <h3 align="left">📚 Knowledge on</h3>
@@ -107,6 +108,9 @@
     </a>
     <a href="https://github.com/izJoey">
         <img src="https://img.shields.io/badge/Web2Py-E69F07?style=for-the-badge&logo=W2P&logoColor=white" />
+    </a>
+    <a href="https://github.com/izJoey">
+        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     </a>
 </p>
 
