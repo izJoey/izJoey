@@ -38,9 +38,6 @@
          <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
     </a>
     <a href="https://github.com/izJoey">
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    </a>
-    <a href="https://github.com/izJoey">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
     <a href="https://github.com/izJoey">
@@ -57,6 +54,9 @@
 
 <h3 align="left">📚 Knowledge on</h3>
 <p>
+    <a href="https://github.com/izJoey">
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
     <a href="https://github.com/izJoey">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     </a>   
