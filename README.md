@@ -22,6 +22,9 @@
 
 <h3 align="left">📖 Main/Learning</h3>
 <p>
+  <a href="https://github.com/izJoey">
+        <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" />
+    </a>
     <a href="https://github.com/izJoey">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </a>
@@ -49,10 +52,7 @@
     <a href="https://github.com/izJoey">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </a>
-    <a href="https://github.com/izJoey">
-        <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" />
-    </a>
-    
+   
 </p>
 
 <h3 align="left">📚 Knowledge on</h3>
