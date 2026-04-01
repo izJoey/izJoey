@@ -3,8 +3,8 @@
 * 🎶 I Love Music ! 🎧
 
 * 🌱 I’m currently learning
-  * Front/Back-end Developlment in React/Next
   * Rust 
+  * Front/Back-end Developlment in React/Next
 
 * 💬 Languages
   * Brazilian Portuguese - Native - 🇧🇷
